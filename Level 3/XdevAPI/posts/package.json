@@ -1,0 +1,23 @@
+{
+  "name": "posts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Erickhack/safe-delete-restore.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Erickhack/safe-delete-restore/issues"
+  },
+  "homepage": "https://github.com/Erickhack/safe-delete-restore#readme",
+  "dependencies": {
+    "@mysql/xdevapi": "^8.0.26"
+  }
+}

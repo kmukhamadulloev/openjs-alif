@@ -1,0 +1,3 @@
+.featured::before {
+	content: '★';
+}

@@ -1,0 +1,1 @@
+SELECT id, content, likes, created FROM posts WHERE removed=FALSE;

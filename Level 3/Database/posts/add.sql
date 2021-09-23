@@ -1,0 +1,1 @@
+INSERT INTO posts(content) VALUE ('Last Post!!!');
